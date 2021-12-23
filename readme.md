@@ -8,7 +8,7 @@
    I develop Web and Android Apps. Currently working remotely from
     <b>Nairobi / Kisumu,  Kenya <img  src="https://flagcdn.com/16x12/ke.png" srcset="https://flagcdn.com/32x24/ke.png 2x, https://flagcdn.com/48x36/ke.png 3x" width="16" height="12" alt="Kenya"> </b>.</p>
   	
-  💻&nbsp;Coding is today's language of creativity.\
+  🔭&nbsp;Coding is today's language of creativity.\
   👨‍💻 &nbsp;I'm currently working for <a href="https://blinx.co.ke" target="_blank"><u>Blinx Corporation</u> </a> where we build the Future with Tech, Gear, and Software\
   📱  &nbsp; Feel free to contact me via `0758413462`/`0790333257` or ***Email Me*** <bensonmakau2000@gmail.com> \
   💡 &nbsp;I develop software with ***Perfectionism***: Incinerating Perfectionism.
