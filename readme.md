@@ -27,9 +27,11 @@
   <img alt="JavaScript" src="https://img.shields.io/badge/-javascript-1AB8AE?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white"/>
   <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=flat-square&logo=node-dot-js&logoColor=white"/>
+ <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+ <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
+ <img alt="SQlite" src="https://img.shields.io/badge/-SQlite-311C87?style=flat-square&logo=sqlite&logoColor=white" />
+  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/mongodb-DB33D?style=flat-square&logo=mongodb&logoColor=white"/>
-  
-  
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-995DD8?style=flat-square&logo=php&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white"/>
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
@@ -58,7 +60,12 @@
 <hr/>
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=makaubenson&layout=compact)](https://github.com/makaubenson)
+<!-- most used languages -->
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=makaubenson&hide=css,java,html&theme=tokyonight">
+</p>
+
+
+
 
 <br />
 <h2>📈 &nbsp;Github Statistics</h2>
