@@ -52,10 +52,11 @@
 </p>
 <h2>🌐 &nbsp;Social Media</h2>
 
+[![Linkedin Badge](https://img.shields.io/badge/-Makau%20Benson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/makaubenson/)](https://www.linkedin.com/in/makaubenson/)
+[![Twitter Badge](https://img.shields.io/badge/-@makaubenson_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_makaubenson)](https://twitter.com/_makaubenson)
 <p style="padding-left: 40px;"  >
-  <a target="_blank" href="https://linkedin.com/in/makaubenson" target="_blank"><img width="30px" alt="LinkedIn" src="https://image.flaticon.com/icons/png/512/174/174857.png" /></a> 
  <a target="_blank" style="margin: 10px" href="https://www.instagram.com/makau_bn" target="_blank"><img width="30px" alt="Twitter" src="https://image.flaticon.com/icons/png/512/2111/2111463.png" /></a>
-  <a target="_BLANk"   href="https://twitter.com/_makaubenson" target="_blank"><img  width="30px" alt="Twitter" src="https://image.flaticon.com/icons/png/512/145/145812.png" /></a>
+
 </p>
 <hr/>
 <br/>
