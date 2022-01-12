@@ -1,5 +1,5 @@
  
-#  <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="35px" id="start" />&nbsp;<b>Hey there, I'm Benson Makau </b>
+#  <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="35px"  />&nbsp;<b>Hey there, I'm Benson Makau </b>
 
 <img align="right" style="height:auto;" alt="" width="180" class="avatar avatar-user width-full border color-bg-primary" src="https://avatars.githubusercontent.com/makaubenson">
 <p aligh="left">
@@ -54,19 +54,16 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/makaubenson/)](https://www.linkedin.com/in/makaubenson/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_makaubenson)](https://twitter.com/_makaubenson)
-<p style="padding-left: 40px;"  >
- <a target="_blank" style="margin: 10px" href="https://www.instagram.com/makau_bn" target="_blank"><img width="30px" alt="Twitter" src="https://image.flaticon.com/icons/png/512/2111/2111463.png" /></a>
+
 
 </p>
 <hr/>
 <br/>
 
 <!-- most used languages -->
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=makaubenson&hide=css,java,html&theme=tokyonight">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aknjoroge&layout=compact)](https://github.com/makaubenson)
 </p>
-
-
-
 
 <br />
 <h2>📈 &nbsp;Github Statistics</h2>
@@ -81,6 +78,5 @@
 <br>
 ![](https://komarev.com/ghpvc/?username=makaubenson&color=green)
 <br>
-[Scroll To Top](#start)
 
 
