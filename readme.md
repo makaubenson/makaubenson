@@ -62,7 +62,7 @@
 
 <!-- most used languages -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aknjoroge&layout=compact)](https://github.com/makaubenson)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=makaubenson&layout=compact)](https://github.com/makaubenson)
 </p>
 
 <br />
