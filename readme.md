@@ -67,14 +67,15 @@
 <hr/>
 
 <h2>📈 &nbsp;Github Statistics</h2>
-
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=makaubenson&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=makaubenson&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+<p  align='center'>
+<img  height="137px" src="https://github-readme-stats.vercel.app/api?username=makaubenson&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=makaubenson&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+</p>
 <hr>
- 
+
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=makaubenson&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
 
 
-<span align="left">
+<span align="center">
 
 ![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=makaubenson&hide_border=true&theme=black-ice&background=3D3D3D&stroke=00E6FE)
 </span>
