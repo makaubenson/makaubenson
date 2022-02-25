@@ -56,23 +56,12 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/makaubenson/)](https://www.linkedin.com/in/makaubenson/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_makaubenson)](https://twitter.com/_makaubenson)
-
-
-</p>
 <hr/>
-<br/>
 
-<!-- most used languages -->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=makaubenson&layout=compact)](https://github.com/makaubenson)
-</p>
-
-<br />
 <h2>📈 &nbsp;Github Statistics</h2>
-<span align="left">
 
-![Benson Makau's GitHub Stats](https://github-readme-stats.vercel.app/api?username=makaubenson&show_icons=true&hide_border=true&bg_color=3D3D3D&title_color=00E6FE&icon_color=00E6FE&text_color=FFFFFF)
-</span>
+<img height="137px" src="https://github-readme-stats.vercel.app/api?username=makaubenson&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=makaubenson&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+
 <span align="left">
 
 ![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=makaubenson&hide_border=true&theme=black-ice&background=3D3D3D&stroke=00E6FE)
