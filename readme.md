@@ -52,10 +52,18 @@
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
    <img alt="GitHub"  src="https://img.shields.io/badge/github-121213?style=flat-square&logo=github&logoColor=white">
 </p>
-<h2>🌐 &nbsp;Social Media</h2>
+<hr/>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/makaubenson/)](https://www.linkedin.com/in/makaubenson/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_makaubenson)](https://twitter.com/_makaubenson)
+
+### <h2>📳 &nbsp; Social Media</h2>
+
+<p align="center">
+	<a href="https://github.com/makaubenson"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
+	<a href="https://www.linkedin.com/in/makaubenson/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
+<!-- 	<a href="https://www.facebook.com/imakash3011/"><img alt="facebook" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/facebook-new.png"/></a> -->
+	<a href="https://www.instagram.com/makau_bn/"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
+	<a href="https://twitter.com/_makaubenson"><img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/twitter.png"/></a>
+</p>
 <hr/>
 
 <h2>📈 &nbsp;Github Statistics</h2>
@@ -69,5 +77,7 @@
 <br>
 ![](https://komarev.com/ghpvc/?username=makaubenson&color=green)
 <br>
+
+
 
 
