@@ -80,8 +80,14 @@
 ![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=makaubenson&hide_border=true&theme=black-ice&background=3D3D3D&stroke=00E6FE)
 </span>
 <br>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=makaubenson)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 ![version :20.08.2021](https://img.shields.io/badge/version-20.08.2021-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=makaubenson&color=red)&nbsp;
 [![GitHub AbhishekSinghDhadwal](https://img.shields.io/github/followers/makaubenson?label=follow&style=social)](https://github.com/makaubenson)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 
+
+<br>
