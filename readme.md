@@ -6,7 +6,7 @@
 <img align="right" style="height:auto;" alt="" width="180" class="avatar avatar-user width-full border color-bg-primary" src="https://avatars.githubusercontent.com/makaubenson">
 <p aligh="left">
 
-  <p>Hi 👋, I'm an Open Source enthusiast, always happy to fix that "one"  bug .</br>
+  <p>Hi 👋, I'm an Open Source enthusiast, and tech whizz who believes in problem solving </br>
    I develop Web and Android Apps. Currently working remotely from
     <b> Nairobi,  Kenya <img  src="https://flagcdn.com/16x12/ke.png" srcset="https://flagcdn.com/32x24/ke.png 2x, https://flagcdn.com/48x36/ke.png 3x" width="16" height="12" alt="Kenya"> </b>.</p>
   	
