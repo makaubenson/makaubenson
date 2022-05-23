@@ -60,13 +60,12 @@
 <p align="center">
 	<a href="https://github.com/makaubenson"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
 	<a href="https://www.linkedin.com/in/makaubenson/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
-<!-- 	<a href="https://www.facebook.com/imakash3011/"><img alt="facebook" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/facebook-new.png"/></a> -->
 	<a href="https://www.instagram.com/makau_bn/"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
 	<a href="https://twitter.com/_makaubenson"><img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/twitter.png"/></a>
 </p>
 <hr/>
 
-<h2>📈 &nbsp;Github Statistics</h2>
+<h2>📈 &nbsp;Github Stats</h2>
 <p  align='center'>
 <img  height="137px" src="https://github-readme-stats.vercel.app/api?username=makaubenson&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
 	<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=makaubenson&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
