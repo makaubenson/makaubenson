@@ -1,9 +1,9 @@
  
-#  <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="15px"  />&nbsp;<b>Hey there, I'm Benson Makau </b>
+#  <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="35px"  />&nbsp;<b>Hey there, I'm Benson Makau </b>
 
 
 
-<img align="right" style="height:auto;" alt="" width="180" class="avatar avatar-user width-full border color-bg-primary" src="https://avatars.githubusercontent.com/makaubenson">
+<img align="right" style="height:auto;" alt="" width="35" class="avatar avatar-user width-full border color-bg-primary" src="https://avatars.githubusercontent.com/makaubenson">
 <p aligh="left">
 
   <p>Hi 👋, I'm an Open Source enthusiast, and tech whizz who believes in problem solving using tech and the Founder <a href="https://blinx.co.ke" target="_blank"><u>Blinx Corporation</u> </a>. </br>
