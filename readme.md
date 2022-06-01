@@ -1,5 +1,5 @@
  
-#  <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="35px"  />&nbsp;<b>Hey there, I'm Benson Makau </b>
+#  <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="15px"  />&nbsp;<b>Hey there, I'm Benson Makau </b>
 
 
 
