@@ -1,8 +1,6 @@
  
 #  <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="35px"  height="35px"/>&nbsp;<b>Hey there, I'm Benson Makau </b>
 
-
-
 <img align="right" style="height:auto;" alt="" width="150" class="avatar avatar-user width-full border color-bg-primary" src="https://avatars.githubusercontent.com/makaubenson">
 <p aligh="left">
 
@@ -13,7 +11,7 @@
   🔭&nbsp;Coding is today's language of creativity.\
   👨‍💻 &nbsp;I'm currently working for <a href="https://blinx.co.ke" target="_blank"><u>Blinx Corporation</u> </a> where we build the Future with Tech, Gear, and Software.\
   📱  &nbsp; Feel free to contact me via `0758413462` or ***Email Me*** <bensonmakau2000@gmail.com> / <info@blinx.co.ke> \
-  💡 &nbsp;At Blinx Corporation, we develop software with ***Perfectionism***: Incinerating Perfectionism.
+  💡 &nbsp;At Blinx, we develop software with ***Perfectionism***: Incinerating Perfectionism.
 </p>
 <br>
 
