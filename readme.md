@@ -71,7 +71,7 @@
 <hr>
 <span align="center">
 
-![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=makaubenson&hide_border=true&theme=black-ice&background=black&stroke=00E6FE)
+![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=daphneruth&hide_border=true&theme=black-ice&background=black&stroke=00E6FE)
 </span>
 <br>
 
