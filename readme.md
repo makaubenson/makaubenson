@@ -1,12 +1,12 @@
  
-#  <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="35px"  height="35px"/>&nbsp;<b>Hey there, I'm Benson Makau </b>
+#  <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="35px"  height="35px"/>&nbsp;<b>Hi there, I'm Benson Makau </b>
 
 <img align="right" style="height:auto;" alt="" width="150" class="avatar avatar-user width-full border color-bg-primary" src="https://avatars.githubusercontent.com/makaubenson">
 <p aligh="left">
 
-  <p>Hi 👋, I'm an Open Source enthusiast, and tech whizz who believes in problem solving using tech and the Founder <a href="https://blinx.co.ke" target="_blank"><u>Blinx Corporation</u> </a>. </br>
+  <p>Hi 👋, I'm a software developer who believes in building solutions using software and the Founder <a href="https://blinx.co.ke" target="_blank"><u>Blinx Corporation</u> </a>. </br>
    I develop Web applications. Currently working remotely from
-    <b> Nairobi,  Kenya <img  src="https://flagcdn.com/16x12/ke.png" srcset="https://flagcdn.com/32x24/ke.png 2x, https://flagcdn.com/48x36/ke.png 3x" width="16" height="12" alt="Kenya"> </b>.</p>
+    <b>Kenya <img  src="https://flagcdn.com/16x12/ke.png" srcset="https://flagcdn.com/32x24/ke.png 2x, https://flagcdn.com/48x36/ke.png 3x" width="16" height="12" alt="Kenya"> </b>.</p>
   	
   🔭&nbsp;Coding is today's language of creativity.\
   👨‍💻 &nbsp;I'm currently working for <a href="https://blinx.co.ke" target="_blank"><u>Blinx Corporation KE</u> </a> where we build the Future with Tech, Gear, and Software.\
