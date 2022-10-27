@@ -4,7 +4,7 @@
 <img align="right" style="height:auto;" alt="" width="150" class="avatar avatar-user width-full border color-bg-primary" src="https://avatars.githubusercontent.com/makaubenson">
 <p aligh="left">
 
-  <p>Hi 👋, I'm a software developer who believes in building solutions using software and the Founder <a href="https://blinx.co.ke" target="_blank"><u>Blinx Corporation Agency</u> </a>. </br>
+  <p>Hi 👋, I'm a software developer who believes in building solutions using software and the Founder <a href="https://blinx.co.ke" target="_blank"><u>Blinx Corporation</u> </a>. </br>
    I develop Web applications. Currently working remotely from
     <b>Kenya <img  src="https://flagcdn.com/16x12/ke.png" srcset="https://flagcdn.com/32x24/ke.png 2x, https://flagcdn.com/48x36/ke.png 3x" width="16" height="12" alt="Kenya"> </b>.</p>
   	
