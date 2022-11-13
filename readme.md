@@ -4,18 +4,19 @@
 <img align="right" style="height:auto;" alt="" width="150" class="avatar avatar-user width-full border color-bg-primary" src="https://avatars.githubusercontent.com/makaubenson">
 <p aligh="left">
 
-  <p>Hi 👋, I'm a software developer who believes in building solutions using software and the Founder <a href="https://blinx.co.ke" target="_blank"><u>Blinx Corporation</u> </a>. </br>
-   I develop Web applications. Currently working remotely from
-    <b>Kenya <img  src="https://flagcdn.com/16x12/ke.png" srcset="https://flagcdn.com/32x24/ke.png 2x, https://flagcdn.com/48x36/ke.png 3x" width="16" height="12" alt="Kenya"> </b>.</p>
+  <p>Hi 👋, I am the Founder of <a href="https://blinx.co.ke" target="_blank"><u>Blinx Corporation</u> </a>, a software development agency where we build software to digitize/automate your business processes. </br>
+   I am a MERN Stack Developer. I also code in PHP,WordPress, HTML, CSS, Bootstrap, and RESTFul APIs. Currently working remotely from
+    <b>Nairobi,Kenya <img  src="https://flagcdn.com/16x12/ke.png" srcset="https://flagcdn.com/32x24/ke.png 2x, https://flagcdn.com/48x36/ke.png 3x" width="16" height="12" alt="Kenya"> </b>.</p>
+    
   	
-  🔭&nbsp;Coding is today's language of creativity.\
-  👨‍💻 &nbsp;I'm currently working for <a href="https://blinx.co.ke" target="_blank"><u>Blinx Corporation KE</u> </a> where we build the Future with Tech, Gear, and Software.\
-  📱  &nbsp; Feel free to contact me via `0758413462` or ***Email Me*** <bensonmakau2000@gmail.com> or <benson@blinx.co.ke> \
-  💡 &nbsp;At Blinx, we develop software with ***Perfectionism***: Incinerating Perfectionism.
+  🔭&nbsp;With code, the possibilities are endless.\
+  👨‍💻 &nbsp;I'm currently Docker.\
+  📱  &nbsp; Having an open source project you want us to collaborate? Contact me via ***Email Me***  <benson@blinx.co.ke> \
+  💡 &nbsp;At Blinx Corporation, we develop software for your to suite your business domain.
 </p>
 <br>
 
- <h2>⚙ &nbsp;Technologies, Environments and Development tools</h2>
+ <h2>⚙ &nbsp;Technologies and Development Tools</h2>
 <p>
   <img alt="VSCode" src="https://img.shields.io/badge/-Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white" />
   <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
