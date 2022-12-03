@@ -41,8 +41,6 @@
   <img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=flat-square&logo=jquery&logoColor=white"/>
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="Markdown" src="https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=Markdown&logoColor=white" />
-  <img alt="WebStorm" src="https://img.shields.io/badge/-WebStorm-000000?style=flat-square&logo=webstorm&logoColor=white" />
-  <img alt="PhpStorm" src="https://img.shields.io/badge/phpstorm-143?style=flat-square&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid"/>
   <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white"/>
   <img alt="Apache" src="https://img.shields.io/badge/apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white"/>
   <img alt="Play Store" src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white" />
