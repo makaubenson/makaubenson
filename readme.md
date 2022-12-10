@@ -5,14 +5,14 @@
 <p aligh="left">
 
   <p>Hi 👋, I am the Founder of <a href="https://blinx.co.ke" target="_blank"><u>Blinx Corporation</u> </a>, a software development agency where we build software to digitize/automate your business processes. </br>
-   I am a MERN Stack Developer. I also code in PHP,WordPress, HTML, CSS, Bootstrap, and RESTFul APIs. Currently working remotely from
+   I am a MERN Stack Developer. I also code in PHP,WordPress, HTML, CSS, Bootstrap. Currently working remotely from
     <b>Nairobi,Kenya <img  src="https://flagcdn.com/16x12/ke.png" srcset="https://flagcdn.com/32x24/ke.png 2x, https://flagcdn.com/48x36/ke.png 3x" width="16" height="12" alt="Kenya"> </b>.</p>
     
   	
   🔭&nbsp;With code, the possibilities are endless.\
-  👨‍💻 &nbsp;I'm currently Docker.\
-  📱  &nbsp; Having an open source project you want us to collaborate? Contact me via ***Email Me***  <benson@blinx.co.ke> \
-  💡 &nbsp;At Blinx Corporation, we develop software for your to suite your business domain.
+  👨‍💻 &nbsp;I'm currently learning Docker.\
+  📱  &nbsp; Having an open source project you want us to collaborate? Contact me via ***Email Me***  <bensonmakau2000@gmail.com> \
+  💡 &nbsp;At Blinx Corporation, we develop software that suites your business domain.
 </p>
 <br>
 
