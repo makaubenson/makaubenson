@@ -71,7 +71,7 @@
 
 <span align="center">
 	
-![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=makaubenson&hide_border=true&theme=black-ice&background=black&stroke=00E6FE)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=makaubenson&theme=github-dark-blue&border_radius=1.0&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 </span>
 <br>
 
