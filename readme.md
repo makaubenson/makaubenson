@@ -5,15 +5,15 @@
 
 <p aligh="left">
 
-  <p>Hi 👋, I am the Founder of <a href="https://blinx.co.ke" target="_blank"><u>Blinx Corporation</u> </a>, a software development agency where we build software to digitize/automate your business processes. </br>
-   I am a MERN Stack Developer. I also code in PHP,WordPress, HTML, CSS, Bootstrap. Currently working remotely from
+  <p>Hi 👋, I am the Founder of <a href="https://blinx.co.ke" target="_blank"><u>Blinx Corporation</u> </a>, a software development agency where we automate your business processes. We turn your dream into a reality, ofcourse using code.</br>
+   I am a Full Stack Web Developer.I am currently working remotely from
     <b>Nairobi,Kenya <img  src="https://flagcdn.com/16x12/ke.png" srcset="https://flagcdn.com/32x24/ke.png 2x, https://flagcdn.com/48x36/ke.png 3x" width="16" height="12" alt="Kenya"> </b>.</p>
     
   	
   🔭&nbsp;With code, the possibilities are endless.\
   👨‍💻 &nbsp;I'm currently learning Docker.\
-  📱  &nbsp; Having an open source project you want us to collaborate? Contact me via ***Email Me***  <bensonmakau2000@gmail.com> \
-  💡 &nbsp;At Blinx Corporation, we develop software that suites your business domain.
+  📱  &nbsp; Having an open source project you want us to collaborate?  ***Email Me At***  <bensonmakau2000@gmail.com> \
+  💡 &nbsp;At Blinx Corporation, we develop software that solves your problem by focusing on your business domain
 </p>
 <br>
 
@@ -21,7 +21,6 @@
 <p>
   <img alt="VSCode" src="https://img.shields.io/badge/-Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white" />
   <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-  <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white"/>
   <img alt="Netlify" src="https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-ffca28?style=flat-square&logo=firebase&logoColor=white" />
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
