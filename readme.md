@@ -1,7 +1,8 @@
  
 #  <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="35px"  height="35px"/>&nbsp;<b>Hi there, I'm Benson Makau </b>
 
-<img align="right" style="height:auto;" alt="" width="150" class="avatar avatar-user width-full border color-bg-primary" src="https://avatars.githubusercontent.com/makaubenson">
+<a align="right" href="https://app.daily.dev/makaubenson"><img width="250" align="right" src="https://api.daily.dev/devcards/6067579662ab43e78871a1a777c27d14.png?r=3p6" alt="Benson Makau's Dev Card"/></a>
+
 <p aligh="left">
 
   <p>Hi 👋, I am the Founder of <a href="https://blinx.co.ke" target="_blank"><u>Blinx Corporation</u> </a>, a software development agency where we build software to digitize/automate your business processes. </br>
@@ -68,14 +69,11 @@
 </p>
 <hr>
 <span align="center">
-
+	
 ![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=makaubenson&hide_border=true&theme=black-ice&background=black&stroke=00E6FE)
 </span>
 <br>
 
 
-
-
-
-
 <br>
+
