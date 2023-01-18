@@ -5,15 +5,15 @@
 
 <p aligh="left">
 
-  <p>Hi 👋, I am the Founder of <a href="https://blinx.co.ke" target="_blank"><u>Blinx Corporation</u> </a>, a software development agency where we automate your business processes. We turn your dream into a reality, ofcourse using code.</br>
+  <p>Hi 👋, I am the Founder of <a href="https://blinx.co.ke" target="_blank"><u>Blinx Corporation</u> </a>, a Software Development Agency.</br>
    I am a Full Stack Web Developer.I am currently working remotely from
     <b>Nairobi,Kenya <img  src="https://flagcdn.com/16x12/ke.png" srcset="https://flagcdn.com/32x24/ke.png 2x, https://flagcdn.com/48x36/ke.png 3x" width="16" height="12" alt="Kenya"> </b>.</p>
     
   	
   🔭&nbsp;With code, the possibilities are endless.\
-  👨‍💻 &nbsp;I'm currently learning Docker.\
-  📱  &nbsp; Having an open source project you want us to collaborate?  ***Email Me At***  <bensonmakau2000@gmail.com> \
-  💡 &nbsp;At Blinx Corporation, we develop software that solves your problem by focusing on your business domain
+  👨‍💻 &nbsp;I'm currently learning React.js.\
+  📱  &nbsp; Having an open source project you want us to collaborate?  ***Email Me At***  <benson.m@blinx.co.ke> \
+  💡 &nbsp;At Blinx Corporation, we build software with the aim of making your business better and put you ahead of your competition. We solve the problem at hand, because we are exceptional at what we do.
 </p>
 <br>
 
