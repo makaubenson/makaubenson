@@ -5,14 +5,14 @@
 
 <p aligh="left">
 
-  <p>Hi 👋, I am currently building some amazing software at <a href="https://blinx.co.ke" target="_blank"><u>Blinx Corporation</u> </a>, a Software Development Agency based in Kenya.</br>
+  <p>Hi 👋, I am currently building some amazing software at <a href="https://blinx.co.ke" target="_blank"><u>Blinx Corporation</u> </a>, a Software Development Agency based in Kenya that is working fully remote.</br>
    I am a Web Developer.I am currently working remotely from
     <b>Nairobi,Kenya <img  src="https://flagcdn.com/16x12/ke.png" srcset="https://flagcdn.com/32x24/ke.png 2x, https://flagcdn.com/48x36/ke.png 3x" width="16" height="12" alt="Kenya"> </b>.</p>
      	
   🔭&nbsp;With code, the possibilities are endless.\
-  👨‍💻 &nbsp;I'm currently learning React.js and Docker\
-  📱  &nbsp; Having an open source project you want us to collaborate?  ***Email Me At***  <benson.m@blinx.co.ke> \
-  💡 &nbsp;I don't just build software, i make sure it solves the problem at hand to the latter. For me, a happy client is a loyal customer.
+  👨‍💻 &nbsp;I'm currently learning React.js and DevOps\
+  📱  &nbsp; Having an open source project you want us to collaborate?  ***Reach out to me via***  <benson.m@blinx.co.ke> \
+  💡 &nbsp; The most important property of a program is whether it accomplishes the intention of its user.
 </p>
 <br>
 
