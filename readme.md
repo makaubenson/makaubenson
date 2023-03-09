@@ -10,7 +10,7 @@
     <b>Nairobi,Kenya <img  src="https://flagcdn.com/16x12/ke.png" srcset="https://flagcdn.com/32x24/ke.png 2x, https://flagcdn.com/48x36/ke.png 3x" width="16" height="12" alt="Kenya"> </b>.</p>
      	
   🔭&nbsp; With code, the possibilities are endless.\
-   🔭&nbsp;I am proficient in Node.js, Express.js, MongoDB, PHP, MySQL, Wordpress, HTML,CSS and Bootstrap.\
+   👨‍💻 &nbsp; I am proficient in Node.js, Express.js, MongoDB, PHP, MySQL, Wordpress, HTML,CSS and Bootstrap.\
   👨‍💻 &nbsp;I'm currently learning React.js and DevOps\
   📱  &nbsp; Having an open source project you want us to collaborate?  ***Reach out to me via***  <benson.m@blinx.co.ke> \
   💡 &nbsp; The most important property of a program is whether it accomplishes the intention of its user.
