@@ -5,8 +5,8 @@
 
 <p aligh="left">
 
-  <p>Hi 👋, I am currently building some amazing software at <a href="https://blinx.co.ke" target="_blank"><u>Blinx Corporation</u> </a>, a Software Development Agency based in Kenya that is working fully remote.</br>
-   I am a Web Developer.I am currently working remotely from
+  <p>I'm fortunate to be part of the team building some outstanding projects at <a href="https://blinx.co.ke" target="_blank"><u>Blinx Corporation</u></a>.</br> Blinx Corporation is a Software Development Agency based in Kenya that is working fully remote.</br>
+  For Blinx, I am part of the web development team. I am currenly working remotely from
     <b>Nairobi,Kenya <img  src="https://flagcdn.com/16x12/ke.png" srcset="https://flagcdn.com/32x24/ke.png 2x, https://flagcdn.com/48x36/ke.png 3x" width="16" height="12" alt="Kenya"> </b>.</p>
      	
   🔭&nbsp;With code, the possibilities are endless.\
