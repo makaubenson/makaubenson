@@ -74,5 +74,13 @@
 </div>
 
 <div align='center'>
+# Wakatime Coding Time
+
+[![wakatime](https://wakatime.com/badge/user/3cb90ed5-1bb9-4b97-a943-3c8e85a6dcbb.svg)](https://wakatime.com/@3cb90ed5-1bb9-4b97-a943-3c8e85a6dcbb)
+<br />
+[![makaubenson's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=makaubenson)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
+<div align='center'>
 <embed src="https://wakatime.com/share/@makaubenson/74770025-e06c-412d-b2ac-01f7c91c5d44.svg"></embed>
 </div>
