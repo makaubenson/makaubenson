@@ -6,7 +6,7 @@
 <p aligh="left">
      	
   🔭&nbsp; With code, the possibilities are endless.\
-   👨‍💻 &nbsp; I am proficient in Node.js, Express.js, MongoDB, PHP, MySQL, Wordpress, HTML,CSS and Bootstrap.\
+   👨‍💻 &nbsp; I am proficient in Node.js, Express.js, MongoDB, PHP, MySQL, WordPress, HTML,CSS and Bootstrap.\
   👨‍💻 &nbsp;I'm currently learning React.js and DevOps\
   📱  &nbsp; Having an open source project you want us to collaborate?  ***Reach out to me via***  <benson.m@blinx.co.ke> \
   💡 &nbsp; The most important property of a program is whether it accomplishes the intention of its user.
