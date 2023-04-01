@@ -4,10 +4,6 @@
 <a align="right" href="https://app.daily.dev/makaubenson"><img width="250" align="right" src="https://api.daily.dev/devcards/6067579662ab43e78871a1a777c27d14.png?r=3p6" alt="Benson Makau's Dev Card"/></a>
 
 <p aligh="left">
-
-  <p>I'm fortunate to be part of the team building some outstanding projects at <a href="https://blinx.co.ke" target="_blank"><u>Blinx Corporation</u></a>.</br> Blinx Corporation is a Software Development Agency based in Kenya that is working fully remote.</br>
-  For Blinx, I am part of the web development team. I am currenly working remotely from
-    <b>Nairobi,Kenya <img  src="https://flagcdn.com/16x12/ke.png" srcset="https://flagcdn.com/32x24/ke.png 2x, https://flagcdn.com/48x36/ke.png 3x" width="16" height="12" alt="Kenya"> </b>.</p>
      	
   🔭&nbsp; With code, the possibilities are endless.\
    👨‍💻 &nbsp; I am proficient in Node.js, Express.js, MongoDB, PHP, MySQL, Wordpress, HTML,CSS and Bootstrap.\
