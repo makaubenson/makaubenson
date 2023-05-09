@@ -1,7 +1,7 @@
  
 #  <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="35px"  height="35px"/>&nbsp;<b>Hi there, I'm Benson Makau
 
-<img align="right" style="height:auto;" alt="" width="150" class="avatar avatar-user width-full border color-bg-primary" src="https://avatars.githubusercontent.com/makaubenson">
+<img align="right" style="height:auto;" alt="" width="350" class="avatar avatar-user width-full border color-bg-primary" src="https://avatars.githubusercontent.com/makaubenson">
 
 <p aligh="left">
      	
