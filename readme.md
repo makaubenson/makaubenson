@@ -56,14 +56,6 @@
 </p>
 <hr/>
 
-<h2>📈 &nbsp;Github Stats</h2>
-<p  align='center'>
-<img  height="137px" src="https://github-readme-stats.vercel.app/api?username=makaubenson&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-	<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=makaubenson&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
-</p>
-<hr>
-<br>
-
 <div align='center'>
 	
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=makaubenson&theme=github-dark-blue&border_radius=1.0&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
