@@ -1,67 +1,107 @@
- 
-#  <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="35px"  height="35px"/>&nbsp;<b>Hi there, I'm Benson Makau
-
-<img align="right" style="height:auto;" alt="" width="250" class="avatar avatar-user width-full border color-bg-primary" src="https://avatars.githubusercontent.com/makaubenson">
-
-<p aligh="left">
-     	
-  🔭&nbsp; With code, the possibilities are endless.\
-   👨‍💻 &nbsp; I am proficient in MongoDB,Express.js, React.js & Node.js (MERN),  PHP, Laravel, MySQL, PostgreSQL, WordPress, Tailwind CSS & Bootstrap.\
-  👨‍💻 &nbsp; I'm currently learning React.js and Docker\
-  📱  &nbsp; Having an open source project you want us to collaborate?  ***Reach out to me via***  <benson.m@blinx.co.ke> \
-  💡 &nbsp; The most important property of a program is whether it accomplishes the intention of its user.
-</p>
-<br>
-
- <h2>⚙ &nbsp;Technologies and Development Tools</h2>
-<p>
-  <img alt="VSCode" src="https://img.shields.io/badge/-Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white" />
-  <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-  <img alt="Netlify" src="https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
-  <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-ffca28?style=flat-square&logo=firebase&logoColor=white" />
-  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="CCS3" src="https://img.shields.io/badge/-CCS3-3cae11?style=flat-square&logo=css3&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/-javascript-1AB8AE?style=flat-square&logo=javascript&logoColor=white" />
-  <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white"/>
-  <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=flat-square&logo=node-dot-js&logoColor=white"/>
- <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
- <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
- <img alt="SQlite" src="https://img.shields.io/badge/-SQlite-311C87?style=flat-square&logo=sqlite&logoColor=white" />
-  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/mongodb-DB33D?style=flat-square&logo=mongodb&logoColor=white"/>
-  <img alt="PHP" src="https://img.shields.io/badge/-PHP-995DD8?style=flat-square&logo=php&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white"/>
-  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="Npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=flat-square&logo=jquery&logoColor=white"/>
-  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
-  <img alt="Markdown" src="https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=Markdown&logoColor=white" />
-  <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white"/>
-  <img alt="Apache" src="https://img.shields.io/badge/apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white"/>
-  <img alt="Play Store" src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white" />
-  <img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" />
-  <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
-</p>
-<hr/>
-
-
-### <h2>📳 &nbsp; Social Media</h2>
-
 <p align="center">
-	<a href="https://www.linkedin.com/in/makaubenson/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
-	<a href="https://www.instagram.com/makau_bn/"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
-	<a href="https://twitter.com/_makaubenson"><img alt="" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/2x/twitter-squared.png"/></a>
+    <a href="https://github.com/makaubenson">
+   <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20there,%20I'm%20Makau%20Benson!;Software%20Engineer;IT%20Business%20Analyst;Cybersecurity%20Engineer&font=Fira%20Code&center=true&width=640&height=45&color=ff79c6&vCenter=true&pause=1000&size=30" />
+    </a>
 </p>
-<hr/>
+<!--- Adding Header Elements -->
+<p align="center">
+    <a href="https://linkedin.com/in/makaubenson">
+        <img src="assets/mylinkedIn.png" height="40" alt="LinkedIn">
+    </a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://instagram.com/makau_bn">
+        <img src="assets/myinstagram.png" height="40" alt="Instagram">
+    </a>&nbsp;&nbsp;
+    <a href="https://mail.google.com/mail/?view=cm&to=bensonmakau2000@gmail.com">
+        <img src="assets/mygmail.png" height="40" alt="Gmail">
+    </a>&nbsp;&nbsp;
+    <a href="https://x.com/_makaubenson_">
+        <img src="assets/mytwitter.png" height="38" alt="X">
 
-<div align='center'>
-	
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=makaubenson&theme=github-dark-blue&border_radius=1.0&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+</p>
+
+<h2 style="color:#e8df7a; display: flex; align-items: center;">
+    <a href="https://github.com/makaubenson" style="display: inline-flex; align-items: center; text-decoration: none;">
+        <img src="assets/github_social media_icon.png" height="40" style="vertical-align: middle; margin-right: 8px;"></a>
+        <span style="color:#e8df7a; font-size: 1.5em; vertical-align: middle;">GitHub Stats:</span>
+
+    
+</h2>
+<p>
+    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=makaubenson&theme=omni&hide_border=true&sideNums=e8df7a&fire=e8df7a&dates=e8df7a"><br>
+    <img src="https://github-readme-stats-ten-olive-80.vercel.app/api/top-langs/?username=makaubenson&theme=omni&include_all_commits=true&count_private=true&hide_border=true&layout=donut&custom_title=Ahtisham's%20Most%20Used%20Languages&text_color=e8df7a"><img src="https://github-readme-stats-ten-olive-80.vercel.app/api?username=makaubenson&show_icons=f&line_height=30&rank_icon=github&theme=omni&hide_border=true&text_color=e8df7a"><br>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=makaubenson&theme=omni&exclude={}" width="33%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=makaubenson&theme=omni&exclude={exclude}" width="33%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=makaubenson&theme=omni&utcOffset=+5" width="33%"><br>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=makaubenson&theme=omni" width="100%">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=makaubenson&point=e8df7a&title_color=ff7ac7&bg_color=191622&line=ff7ac7&hide_border=true&area=true&area_color=e8df7a&color=e8df7a">
+    <p align="center"><img src="assets/snakegridtitle.gif" width="500" ></p>
+    <img src="https://raw.githubusercontent.com/makaubenson/makaubenson/snake/github-snake-dark.svg" width="100%"><br>
+    <img src="https://raw.githubusercontent.com/makaubenson/makaubenson/output-3d-contrib/profile-green-dual.svg" alt="3D Contributions"/>
+</p>
+
+<h3 style="color:#e8df7a;">✍️ Random Dev Quote</h3>
+<img src="https://quotes-github-readme.vercel.app/api?type=vetical&quoteColor=ff79c6&authorColor=d8d8dd&backgroundColor=RRGGBBAA&symbolColor=e8df7a">
+
+<hr>
+
+
+
+<details open> 
+  <summary><h2>📕 Projects I've Contributed To</h2></summary>
+   <p align="left">
+    <a href="https://github.com/asmahussain48/Ecommerce-Large-GUI-Based_-working-on-it-">
+  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=asmahussain48&repo=E-commerce-Java&theme=omni&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Ecommerce-Large-GUI-Based_-working-on-it-">
+</a>
+<a href="https://github.com/Haziq8900/Bank-Management-System">
+  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Haziq8900&repo=Bank-Management-System&theme=omni&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Ecommerce-Large-GUI-Based_-working-on-it-">
+</a>
+  </p>
+
+  <p align="left">
+    <a href="https://github.com/makaubenson?tab=repositories&type=fork"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Forks-1F222E?style=for-the-badge&logoColor=e8df7a&logo=fork"/></a>
+  </p>
+</details> 
+
+<details open> 
+  <summary><h2>📌 Pinned</h2></summary>
+    <a href="https://github.com/makaubenson/Expense-Tracker-Flutter.git">
+ <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=makaubenson&repo=Expense-Tracker-Flutter&theme=omni&text_color=e8df7a&hide_border=true&bg_color=0000" alt="Expense-Tracker-Flutter">
+</a>
+<a href="https://github.com/makaubenson/Encryption-And-Description-using-Flask.git">
+ <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=makaubenson&repo=Encryption-Description&theme=omni&text_color=e8df7a&hide_border=true&bg_color=0000" alt="Encryption & Decrption">
+</a>
+<a href="https://github.com/makaubenson/TailorManagementWeb.git">
+ <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=makaubenson&repo=TailorManagementWeb&theme=omni&text_color=e8df7a&hide_border=true&bg_color=0000" alt="Tailor Management Web App">
+</a>    
+</details> 
+<hr>
+
+```diff
++@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
+@@       o o                                           @@
+@@       | |                                           @@
+@@      _L_L_                                          @@
+@@   ❮\/__-__\/❯  A habit missed once is a mistake,    @@
+@@   ❮(|~o.o~|)❯    A habit missed twice is a start    @@
+@@   ❮/ \`-'/ \❯          of new habit!                @@
+@@     _/`U'\_                                         @@
+@@    ( .   . )     .----------------------------.     @@
+@@   / /     \ \    | while( ! (succed=try() ) ) |     @@
+@@   \ |  ,  | /    '----------------------------'     @@
+@@    \|=====|/                                        @@
+@@     |_.^._|                                         @@
+@@     | |"| |                                         @@
+@@     ( ) ( )   Testing leads to failure              @@
+@@     |_| |_|   and failure leads to understanding    @@
+@@ _.-' _j L_ '-._                                     @@
+@@(___.'     '.___)                                    @@
++@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
+```
+  
 </div>
+<img src="assets/line.gif" height="100" width="100%">
 
-
-<div align='center'>
-<embed src="https://wakatime.com/share/@makaubenson/74770025-e06c-412d-b2ac-01f7c91c5d44.svg"></embed>
-</div>
+[![committers.top badge](https://user-badge.committers.top/pakistan_public/makaubenson.svg)](https://user-badge.committers.top/pakistan_public/makaubenson)<br>
+[![committers.top badge](https://user-badge.committers.top/pakistan/makaubenson.svg)](https://user-badge.committers.top/pakistan/makaubenson)<br>
+[![committers.top badge](https://user-badge.committers.top/pakistan_private/makaubenson.svg)](https://user-badge.committers.top/pakistan_private/makaubenson)
+<br>
+<img src="https://media.giphy.com/media/2fC8cduAc35UIAxHDE/giphy.gif" width="150" align="right">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://c.tenor.com/3dgbcMt6Kx4AAAAi/spider-insect.gif" width="40">
+<img src="assets/footer.svg" width="100%">
